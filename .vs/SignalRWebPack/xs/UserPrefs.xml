@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DFF66988-2F53-488B-9332-93FDF79FBE98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRWebPack.csproj">
+    <Files>
+      <File FileName="SignalRWebPack.csproj" Line="21" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalRWebPack" expanded="True">
+            <Node name="SignalRWebPack" expanded="True">
+              <Node name="Hubs" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="src" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="index.html" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SignalRWebPack PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

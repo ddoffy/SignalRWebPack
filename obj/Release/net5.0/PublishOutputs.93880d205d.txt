@@ -1,0 +1,12 @@
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/wwwroot/css/main.eb35944dc50d10cbbcba.css
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/wwwroot/index.html
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/wwwroot/main.eb35944dc50d10cbbcba.js
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/appsettings.Development.json
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/appsettings.json
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/package-lock.json
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/package.json
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/src/tsconfig.json
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/SignalRWebPack.dll
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/SignalRWebPack.runtimeconfig.json
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/SignalRWebPack.pdb
+/Users/doffy/Workspace/SignalRWebPack/obj/Release/net5.0/PubTmp/Out/SignalRWebPack.deps.json
